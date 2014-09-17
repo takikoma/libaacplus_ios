@@ -1,0 +1,3 @@
+[submodule "libaacplus"]
+	path = libaacplus
+	url = git@github.com:Distrotech/libaacplus.git
