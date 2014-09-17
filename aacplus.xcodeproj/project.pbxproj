@@ -56,6 +56,7 @@
 		BDDD2B0719C9754E0011F0BC /* tran_det.c in Sources */ = {isa = PBXBuildFile; fileRef = BDDD2AD419C9754E0011F0BC /* tran_det.c */; };
 		BDDD2B0819C9754E0011F0BC /* transcendent.c in Sources */ = {isa = PBXBuildFile; fileRef = BDDD2AD619C9754E0011F0BC /* transcendent.c */; };
 		BDDD2B0919C9754E0011F0BC /* transform.c in Sources */ = {isa = PBXBuildFile; fileRef = BDDD2AD719C9754E0011F0BC /* transform.c */; };
+		BDDD2B0F19C987A00011F0BC /* aacplus.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = BDDD2B0B19C975810011F0BC /* aacplus.h */; };
 		BDE973D019C7F9A9001A5CD3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BDE973CF19C7F9A9001A5CD3 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
@@ -66,6 +67,7 @@
 			dstPath = "include/$(PRODUCT_NAME)";
 			dstSubfolderSpec = 16;
 			files = (
+				BDDD2B0F19C987A00011F0BC /* aacplus.h in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
