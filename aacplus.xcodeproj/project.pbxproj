@@ -124,11 +124,8 @@
 		BDDD2A9819C9754E0011F0BC /* interface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = interface.h; sourceTree = "<group>"; };
 		BDDD2A9919C9754E0011F0BC /* invf_est.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = invf_est.c; sourceTree = "<group>"; };
 		BDDD2A9A19C9754E0011F0BC /* invf_est.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = invf_est.h; sourceTree = "<group>"; };
-		BDDD2A9B19C9754E0011F0BC /* libaacplus.sym */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = libaacplus.sym; sourceTree = "<group>"; };
 		BDDD2A9C19C9754E0011F0BC /* line_pe.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = line_pe.c; sourceTree = "<group>"; };
 		BDDD2A9D19C9754E0011F0BC /* line_pe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = line_pe.h; sourceTree = "<group>"; };
-		BDDD2A9E19C9754E0011F0BC /* Makefile.am */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.am; sourceTree = "<group>"; };
-		BDDD2A9F19C9754E0011F0BC /* Makefile.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.in; sourceTree = "<group>"; };
 		BDDD2AA019C9754E0011F0BC /* mh_det.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = mh_det.c; sourceTree = "<group>"; };
 		BDDD2AA119C9754E0011F0BC /* mh_det.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mh_det.h; sourceTree = "<group>"; };
 		BDDD2AA219C9754E0011F0BC /* minmax.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = minmax.h; sourceTree = "<group>"; };
@@ -187,8 +184,6 @@
 		BDDD2AD719C9754E0011F0BC /* transform.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = transform.c; sourceTree = "<group>"; };
 		BDDD2AD819C9754E0011F0BC /* transform.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = transform.h; sourceTree = "<group>"; };
 		BDDD2B0B19C975810011F0BC /* aacplus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aacplus.h; sourceTree = "<group>"; };
-		BDDD2B0C19C975810011F0BC /* Makefile.am */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.am; sourceTree = "<group>"; };
-		BDDD2B0D19C975810011F0BC /* Makefile.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.in; sourceTree = "<group>"; };
 		BDE973CC19C7F9A9001A5CD3 /* libaacplus.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libaacplus.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDE973CF19C7F9A9001A5CD3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		BDE973D319C7F9A9001A5CD3 /* aacplus-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "aacplus-Prefix.pch"; sourceTree = "<group>"; };
@@ -261,11 +256,8 @@
 				BDDD2A9819C9754E0011F0BC /* interface.h */,
 				BDDD2A9919C9754E0011F0BC /* invf_est.c */,
 				BDDD2A9A19C9754E0011F0BC /* invf_est.h */,
-				BDDD2A9B19C9754E0011F0BC /* libaacplus.sym */,
 				BDDD2A9C19C9754E0011F0BC /* line_pe.c */,
 				BDDD2A9D19C9754E0011F0BC /* line_pe.h */,
-				BDDD2A9E19C9754E0011F0BC /* Makefile.am */,
-				BDDD2A9F19C9754E0011F0BC /* Makefile.in */,
 				BDDD2AA019C9754E0011F0BC /* mh_det.c */,
 				BDDD2AA119C9754E0011F0BC /* mh_det.h */,
 				BDDD2AA219C9754E0011F0BC /* minmax.h */,
@@ -332,8 +324,6 @@
 			isa = PBXGroup;
 			children = (
 				BDDD2B0B19C975810011F0BC /* aacplus.h */,
-				BDDD2B0C19C975810011F0BC /* Makefile.am */,
-				BDDD2B0D19C975810011F0BC /* Makefile.in */,
 			);
 			name = include;
 			path = libaacplus/include;
